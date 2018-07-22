@@ -28,12 +28,12 @@ Specifically the paper addresses the following problems:
 
 The following python packages must be installed for running the code
 
-Python 2.7 or Python 3.3+
-Tensorflow 0.12.1
-Numpy
-Matplotlib
-ImageIO
-Scikit-learn
+- Python 2.7 or Python 3.3+
+- Tensorflow 0.12.1
+- Numpy
+- Matplotlib
+- ImageIO
+- Scikit-learn
 
 I prefer to use Google Collaboratory for training such systems due to heavy computational requirements. Here is the link to an excellent Medium Post for setting up Google Colab with Drive to manage your ML Projects: https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
