@@ -70,7 +70,7 @@ Some good resources for knowing more about GAN's are :
 
 1) The original WGAN paper: https://arxiv.org/pdf/1701.07875.pdf
 1) The repo https://github.com/soumith/ganhacks provides a number of hacks to train GAN's in general in a stable setting.
-2) The paper **Improved Techniques for Training GANS** by Tim Salimans et.al is an excellent resource for knowing more about GAN training. The paper can be found at https://arxiv.org/pdf/1511.06434.pdf
+2) The paper **Improved Training of Wasserstein GANs** by Gulrajani et.al is an excellent resource for knowing more about WGAN training. The paper can be found at https://arxiv.org/pdf/1704.00028.pdf
 
 ## Author
 
