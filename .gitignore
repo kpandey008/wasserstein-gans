@@ -1,3 +1,7 @@
+MNIST-data/
+model_data_wgan/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
